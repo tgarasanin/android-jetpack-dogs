@@ -1,7 +1,8 @@
-package com.tgarasanin.dogs
+package com.tgarasanin.dogs.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tgarasanin.dogs.R
 
 class MainActivity : AppCompatActivity() {
 
